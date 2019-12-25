@@ -1,0 +1,26 @@
+.ourServices ul{
+    list-style: none;
+}
+.ourServices h3{
+    text-align: left;
+    color: white;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.h6, h6{
+    text-align: left;
+    color: white;
+    
+}
+
+.colored-separator>h3{
+    margin-right: 128px;
+}
+
+.ourServices{
+    background-image: url('./xterme.png');
+    background-color: #30312f;
+    width: 100%;
+    max-width: inherit !important;
+    opacity: .8;
+}

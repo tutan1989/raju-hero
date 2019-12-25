@@ -1,0 +1,23 @@
+.WhyUs{
+    background: #ebe7e7;
+    margin-top: 20px;
+}
+
+.headSection{
+    margin-top: 27px;
+}
+
+.main-content{
+    margin-top: 60px;
+}
+
+.why-us-container{
+    max-width: 1160px !important;
+}
+.why-us-container .RowName{
+text-align: left;
+}
+
+.content-icon{
+    text-align: center;
+}

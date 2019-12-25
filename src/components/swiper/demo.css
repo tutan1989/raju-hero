@@ -1,0 +1,131 @@
+
+ .demo-slide {
+	 height: 300px !important;
+	 line-height: 300px;
+	 align-items: center;
+	 font-size: 2em;
+	 background-color: #ff9529;
+	 color: #fff;
+	 text-align: center;
+	 display: -webkit-box;
+	 display: -ms-flexbox;
+	 display: -webkit-flex;
+	 display: flex;
+	 -webkit-box-pack: center;
+	 -ms-flex-pack: center;
+	 -webkit-justify-content: center;
+	 justify-content: center;
+	 -webkit-box-align: center;
+	 -ms-flex-align: center;
+	 -webkit-align-items: center;
+}
+ .app-header {
+	 background: #ff9529;
+}
+ .app-header h2 {
+	 color: #fff !important;
+	 font-size: 2em;
+	 margin: 0;
+}
+ .swiper-container {
+	 width: 100%;
+	 height: 300px;
+	 background: #fff;
+}
+ .swiper-pagination-bullet-active {
+	 background-color: black !important;
+	 opacity: 1;
+}
+ .swiper-pagination-bullet {
+	 opacity: 1;
+	 background-color: #fff;
+}
+ #auto-slides-per-view .swiper-slide {
+	 width: 80%;
+}
+ #auto-slides-per-view .swiper-slide:nth-child(2n) {
+	 width: 60%;
+}
+ #auto-slides-per-view .swiper-slide:nth-child(3n) {
+	 width: 40%;
+}
+ #centered-slides .swiper-slide, #centered-slides-auto .swiper-slide, #grab-cursor .swiper-slide {
+	 width: 60%;
+}
+ #centered-slides .swiper-slide:nth-child(2n), #centered-slides-auto .swiper-slide:nth-child(2n), #grab-cursor .swiper-slide:nth-child(2n) {
+	 width: 40%;
+}
+ #centered-slides .swiper-slide:nth-child(3n), #centered-slides-auto .swiper-slide:nth-child(3n), #grab-cursor .swiper-slide:nth-child(3n) {
+	 width: 20%;
+}
+ #multi-row .swiper-container {
+	 width: 100%;
+	 height: auto;
+	 margin-left: auto;
+	 margin-right: auto;
+}
+ #fade-effect .swiper-slide {
+	 background-position: center;
+	 background-size: cover;
+	 background-color: #fff;
+}
+ #cube-effect .swiper-container {
+	 width: 300px !important;
+	 height: 300px;
+	 position: absolute;
+	 left: 50%;
+	 top: 50%;
+	 margin-left: -150px;
+	 margin-top: -150px;
+	 background: #fff;
+}
+ #cube-effect .swiper-container .swiper-slide {
+	 background-position: center;
+	 background-size: cover;
+	 background-color: #fff;
+}
+ #cube-effect .slide-content {
+	 height: 450px;
+	 position: relative;
+}
+ #coverflow-effect .swiper-container {
+	 width: 100%;
+	 height: 100%;
+	 padding: 0.5em;
+}
+ #coverflow-effect .swiper-container .swiper-slide {
+	 background-position: center;
+	 background-size: cover;
+	 width: 300px;
+	 height: 300px;
+	 background-color: #fff;
+}
+ #flip-effect .swiper-container {
+	 width: 300px;
+	 height: 300px;
+}
+ #flip-effect .swiper-container .swiper-slide {
+	 background-position: center;
+	 background-size: cover;
+	 width: 300px;
+	 height: 300px;
+	 background-color: #fff;
+}
+ #customized-pagination .swiper-pagination-bullet {
+	 width: 20px;
+	 height: 20px;
+	 text-align: center;
+	 line-height: 20px;
+	 font-size: 11px;
+	 color:black;
+	 opacity: 1;
+	 background: #fff;
+}
+ #customized-pagination .swiper-pagination-bullet-active {
+	 color: #fff;
+	 background:black;
+}
+ #fraction-pagination .swiper-pagination-fraction {
+	 color: #fff;
+}
+ 
