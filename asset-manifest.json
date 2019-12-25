@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/raju-hero/static/css/main.017a9fb6.chunk.css",
-    "main.js": "/raju-hero/static/js/main.4aa499b1.chunk.js",
-    "main.js.map": "/raju-hero/static/js/main.4aa499b1.chunk.js.map",
+    "main.css": "/raju-hero/static/css/main.85909fbf.chunk.css",
+    "main.js": "/raju-hero/static/js/main.8e7c48cd.chunk.js",
+    "main.js.map": "/raju-hero/static/js/main.8e7c48cd.chunk.js.map",
     "runtime-main.js": "/raju-hero/static/js/runtime-main.1c35417c.js",
     "runtime-main.js.map": "/raju-hero/static/js/runtime-main.1c35417c.js.map",
     "static/css/2.17e5ed98.chunk.css": "/raju-hero/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.99f6b18f.chunk.js": "/raju-hero/static/js/2.99f6b18f.chunk.js",
-    "static/js/2.99f6b18f.chunk.js.map": "/raju-hero/static/js/2.99f6b18f.chunk.js.map",
+    "static/js/2.bf37fe0d.chunk.js": "/raju-hero/static/js/2.bf37fe0d.chunk.js",
+    "static/js/2.bf37fe0d.chunk.js.map": "/raju-hero/static/js/2.bf37fe0d.chunk.js.map",
     "index.html": "/raju-hero/index.html",
-    "precache-manifest.e18bf784013b6acbd170cf89626682e5.js": "/raju-hero/precache-manifest.e18bf784013b6acbd170cf89626682e5.js",
+    "precache-manifest.066517975aaae066bc71830709ba5de4.js": "/raju-hero/precache-manifest.066517975aaae066bc71830709ba5de4.js",
     "service-worker.js": "/raju-hero/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/raju-hero/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.017a9fb6.chunk.css.map": "/raju-hero/static/css/main.017a9fb6.chunk.css.map",
-    "static/js/2.99f6b18f.chunk.js.LICENSE": "/raju-hero/static/js/2.99f6b18f.chunk.js.LICENSE",
+    "static/css/main.85909fbf.chunk.css.map": "/raju-hero/static/css/main.85909fbf.chunk.css.map",
+    "static/js/2.bf37fe0d.chunk.js.LICENSE": "/raju-hero/static/js/2.bf37fe0d.chunk.js.LICENSE",
     "static/media/X-Pulse-200.png": "/raju-hero/static/media/X-Pulse-200.cc608446.png",
     "static/media/X-Pulse-200T.png": "/raju-hero/static/media/X-Pulse-200T.c5d8b844.png",
     "static/media/Xtreme-200S.png": "/raju-hero/static/media/Xtreme-200S.a4cd56fd.png",
@@ -22,6 +22,7 @@
     "static/media/duet-p.png": "/raju-hero/static/media/duet-p.21037eff.png",
     "static/media/glalor.jpg": "/raju-hero/static/media/glalor.3fd6619a.jpg",
     "static/media/glamor.png": "/raju-hero/static/media/glamor.935c20e2.png",
+    "static/media/hero3.jpg": "/raju-hero/static/media/hero3.2f35a738.jpg",
     "static/media/hf-delux.png": "/raju-hero/static/media/hf-delux.d526ab97.png",
     "static/media/img_1.png": "/raju-hero/static/media/img_1.935c20e2.png",
     "static/media/img_10.png": "/raju-hero/static/media/img_10.21037eff.png",
@@ -45,8 +46,8 @@
   "entrypoints": [
     "static/js/runtime-main.1c35417c.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.99f6b18f.chunk.js",
-    "static/css/main.017a9fb6.chunk.css",
-    "static/js/main.4aa499b1.chunk.js"
+    "static/js/2.bf37fe0d.chunk.js",
+    "static/css/main.85909fbf.chunk.css",
+    "static/js/main.8e7c48cd.chunk.js"
   ]
 }

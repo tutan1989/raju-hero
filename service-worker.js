@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/raju-hero/precache-manifest.e18bf784013b6acbd170cf89626682e5.js"
+  "/raju-hero/precache-manifest.066517975aaae066bc71830709ba5de4.js"
 );
 
 self.addEventListener('message', (event) => {
