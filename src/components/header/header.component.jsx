@@ -5,6 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
+import img from './hero3.jpg';
 
 export const Menu = () =>{
 return(
@@ -13,7 +14,7 @@ return(
     <Navbar.Brand href="#home">
     <img
         alt=""
-        src="./hero1.png"
+        src={img}
         width="30"
         height="30"
         className="d-inline-block align-top"
