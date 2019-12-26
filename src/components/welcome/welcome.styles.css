@@ -1,16 +1,17 @@
 .welcome .container .row{
-margin-left: -64px !important;
+
 }
 .welcome .headSection{
 margin-top: 27px;
 }
 
 .welcome-content{
-    margin-left: 15px;
+    justify-content: center;
 }
 
 .welcome .page-content{
     margin-top: 30px;
+    justify-content: center;
 }
 
 body {
